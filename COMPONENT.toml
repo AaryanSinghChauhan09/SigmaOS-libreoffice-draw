@@ -1,0 +1,9 @@
+[component]
+name = "SigmaOS-libreoffice-draw"
+description = "LibreOffice Draw vector graphics and PDF editor"
+version = "0.1.0"
+tier = 4
+
+[capabilities]
+contract_version = "1.0.0"
+principles = ["DRY", "KISS", "SOLID", "Arrange-Act-Assert", "Pristine-Sources", "Minimal-Kernel"]
