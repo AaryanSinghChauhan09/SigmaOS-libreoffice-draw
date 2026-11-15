@@ -1,10 +1,14 @@
 [package]
-name = "sigmaos_libreoffice_draw"
+name = "sigmaos-libreoffice-draw"
 version = "0.1.0"
 edition = "2021"
 
 [lib]
 name = "sigmaos_libreoffice_draw"
 path = "src/lib.rs"
+
+[[bin]]
+name = "sigmaos-libreoffice-draw"
+path = "src/main.rs"
 
 [dependencies]
