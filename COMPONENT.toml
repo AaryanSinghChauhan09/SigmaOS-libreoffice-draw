@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-libreoffice-draw"
-description = "LibreOffice Draw vector graphics and PDF editor"
+description = "SigmaOS LibreOffice Draw - Vector drawing and spatial geometry engine"
 version = "0.1.0"
 tier = 4
 
